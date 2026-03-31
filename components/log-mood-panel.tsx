@@ -9,6 +9,7 @@ import { MoodEntryCard } from "@/components/mood-entry-card";
 import { MoodSelector } from "@/components/mood-selector";
 import { MoodStatusChip } from "@/components/mood-status-chip";
 import { WalletButton } from "@/components/wallet-button";
+import { DATA_SUFFIX } from "@/lib/base-attribution";
 import { APP_NAME, APP_TRACKING_ID, MOOD_LOG_ADDRESS, moodLogAbi } from "@/lib/contracts";
 import { buildMoodEntry, getLatestMood, saveMoodEntry, seedMoodEntries, shortAddress, type MoodEntry } from "@/lib/mood-data";
 import { trackTransaction } from "@/utils/track";
@@ -65,7 +66,8 @@ export function LogMoodPanel() {
         address: MOOD_LOG_ADDRESS,
         abi: moodLogAbi,
         functionName: "setMood",
-        args: [selected]
+        args: [selected],
+        dataSuffix: DATA_SUFFIX
       });
       setPendingHash(hash);
       setFeedback("Transaction sent. Waiting for confirmation...");
@@ -123,6 +125,3 @@ export function LogMoodPanel() {
     </section>
   );
 }
-
-
-
