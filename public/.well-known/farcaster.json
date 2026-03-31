@@ -1,0 +1,26 @@
+{
+  "accountAssociation": {
+    "header": "TODO_REPLACE_WITH_FARCASTER_HEADER",
+    "payload": "TODO_REPLACE_WITH_FARCASTER_PAYLOAD",
+    "signature": "TODO_REPLACE_WITH_FARCASTER_SIGNATURE"
+  },
+  "frame": {
+    "version": "1",
+    "name": "mood-log",
+    "iconUrl": "https://mood-log-ochre.vercel.app/preview-card.svg",
+    "homeUrl": "https://mood-log-ochre.vercel.app",
+    "imageUrl": "https://mood-log-ochre.vercel.app/preview-card.svg",
+    "buttonTitle": "Open mood-log",
+    "splashImageUrl": "https://mood-log-ochre.vercel.app/preview-card.svg",
+    "splashBackgroundColor": "#243B6B",
+    "subtitle": "Mood journal on Base",
+    "description": "Log a mood score from one to five on Base in a calm, reflective flow.",
+    "primaryCategory": "health-fitness",
+    "tags": ["base", "mood", "journal", "tracking"],
+    "heroImageUrl": "https://mood-log-ochre.vercel.app/preview-card.svg",
+    "tagline": "Quiet mood logging onchain",
+    "ogTitle": "mood-log",
+    "ogDescription": "Log a mood score from one to five on Base.",
+    "ogImageUrl": "https://mood-log-ochre.vercel.app/preview-card.svg"
+  }
+}
