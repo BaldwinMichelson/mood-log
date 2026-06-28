@@ -31,3 +31,7 @@ git clone https://github.com/BaldwinMichelson/mood-log.git
 Move into the project directory:
 
 ```bash
+cd mood-log
+```
+
+Review the files in the repository to identify the application stack, package manager, and available scripts.
