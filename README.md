@@ -35,3 +35,9 @@ cd mood-log
 ```
 
 Review the files in the repository to identify the application stack, package manager, and available scripts.
+
+## Setup
+
+If the project includes dependency files, install dependencies using the appropriate tool for the stack.
+
+For example, if a `package.json` file is present:
