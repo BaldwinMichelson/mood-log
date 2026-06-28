@@ -47,3 +47,9 @@ npm install
 ```
 
 If another dependency manager is used, follow the conventions defined by the files in the repository.
+
+## Usage
+
+After setup, run the project using the scripts or commands defined in the repository.
+
+If a `package.json` file is present, you can inspect available scripts with:
