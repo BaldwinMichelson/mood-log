@@ -57,3 +57,9 @@ If a `package.json` file is present, you can inspect available scripts with:
 ```bash
 npm run
 ```
+
+Then start the project with the appropriate command, such as:
+
+```bash
+npm run dev
+```
