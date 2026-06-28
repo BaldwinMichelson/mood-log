@@ -102,3 +102,9 @@ Avoid committing local build artifacts, dependency folders, or machine-specific 
 Contributions can be made by cloning the repository, creating a branch, making changes, and opening a pull request.
 
 Before submitting changes, verify that the project still installs and runs correctly using the commands defined by the repository.
+
+## License
+
+No license information is included in the original README.
+
+Add a license file if the project should define explicit usage and distribution terms.
