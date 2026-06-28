@@ -86,3 +86,9 @@ Common areas to document as the project grows include:
 - Development scripts
 
 ## Development Notes
+
+Keep changes focused and easy to review.
+
+Update this README when setup steps, commands, or project behavior change.
+
+Add screenshots, examples, or workflow descriptions when the user experience becomes more defined.
