@@ -69,3 +69,9 @@ or:
 ```bash
 npm start
 ```
+
+Use the command that matches the scripts actually defined in the project.
+
+## Project Structure
+
+The exact structure depends on the files currently present in the repository.
