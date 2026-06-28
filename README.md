@@ -80,3 +80,9 @@ Common areas to document as the project grows include:
 
 - Application source files
 - Configuration files
+- Static assets
+- Tests
+- Build or distribution output
+- Development scripts
+
+## Development Notes
