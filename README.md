@@ -92,3 +92,7 @@ Keep changes focused and easy to review.
 Update this README when setup steps, commands, or project behavior change.
 
 Add screenshots, examples, or workflow descriptions when the user experience becomes more defined.
+
+Document any required environment variables in a dedicated section if they are introduced.
+
+Avoid committing local build artifacts, dependency folders, or machine-specific configuration unless they are intentionally part of the project.
