@@ -96,3 +96,9 @@ Add screenshots, examples, or workflow descriptions when the user experience bec
 Document any required environment variables in a dedicated section if they are introduced.
 
 Avoid committing local build artifacts, dependency folders, or machine-specific configuration unless they are intentionally part of the project.
+
+## Contributing
+
+Contributions can be made by cloning the repository, creating a branch, making changes, and opening a pull request.
+
+Before submitting changes, verify that the project still installs and runs correctly using the commands defined by the repository.
