@@ -26,3 +26,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/BaldwinMichelson/mood-log.git
+```
+
+Move into the project directory:
+
+```bash
