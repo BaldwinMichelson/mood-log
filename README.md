@@ -75,3 +75,8 @@ Use the command that matches the scripts actually defined in the project.
 ## Project Structure
 
 The exact structure depends on the files currently present in the repository.
+
+Common areas to document as the project grows include:
+
+- Application source files
+- Configuration files
