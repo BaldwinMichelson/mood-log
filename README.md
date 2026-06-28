@@ -63,3 +63,9 @@ Then start the project with the appropriate command, such as:
 ```bash
 npm run dev
 ```
+
+or:
+
+```bash
+npm start
+```
