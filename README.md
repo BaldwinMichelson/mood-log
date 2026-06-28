@@ -19,3 +19,10 @@ Because the original project description is brief, this README focuses on practi
 - Space to add mood entry creation, editing, and review workflows
 - Suitable for local development and future documentation updates
 - Easy to extend as the project grows
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/BaldwinMichelson/mood-log.git
